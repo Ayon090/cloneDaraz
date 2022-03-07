@@ -134,6 +134,11 @@
     margin-top: 18px;
     margin-left: 11px;
   }
+  .mall-product-img {
+    width: 180px;
+    position: relative;
+    overflow: hidden;
+}
   .mall-product-col:hover {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
